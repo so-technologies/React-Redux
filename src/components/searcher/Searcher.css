@@ -1,0 +1,39 @@
+.links {
+    margin: 10px;
+}
+
+.links a {
+    color: white;
+    text-decoration: none;
+}
+
+.view-gif {
+    text-align: center;
+}
+
+.view-gif .row {
+    padding: 10px;
+}
+
+.view-gif .row label {
+    display: block;
+    font-weight: bold;
+}
+
+.searcher-container {
+    padding: 0 10%;
+}
+
+.scrollbar-container.ps {
+    height: 700px;
+}
+
+a .material-icons {
+    position: absolute !important;
+    margin-left: -25px;
+    margin-top: 12px;
+}
+
+a.navigation {
+    padding: 9px 30px;
+}
